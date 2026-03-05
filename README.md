@@ -7,9 +7,9 @@
 #	To enhance customer experience by reducing waiting time
 #	To allow people to take their time browsing for their favorite flavor
 #	To minimize or completely get rid of miscommunication between customer and staff
-#Having a kiosk register that the people can control themselves, can save time for the workers and minimize labor costs so that the workers only have to deal with the orders
+# Having a kiosk register that the people can control themselves, can save time for the workers and minimize labor costs so that the workers only have to deal with the orders
 
-#Goals and Accomplishments
+# Goals and Accomplishments
 
 # I want the application to provide the user with options of their favorite flavors, allowing them to choose how many scoops they would like and at the end tell them about their total cost for each scoop.
 
